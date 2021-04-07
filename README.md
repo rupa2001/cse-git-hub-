@@ -31,3 +31,9 @@ C. python
 
 #How to insert vedio link
 [click here to watch vedio](https://vignan.ac.in/blog/what-are-the-courses-offered-by-vignan-deemed-to-be-university.php)
+# How to insert a table
+## MY Profile
+|Name|mail|mobile|profession|location|
+|----|----|------|----------|--------|
+|Rupa|ch.rupa@gmail.com|94411035|cse student|visakhapatnam|
+|manjula|ch.manju401@gmail.com|37849009|cse student|vizag|
